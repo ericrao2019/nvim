@@ -28,4 +28,6 @@ Plug 'dhruvasagar/vim-table-mode', { 'on': 'TableModeToggle', 'for': ['text', 'm
 Plug 'mzlogin/vim-markdown-toc'
 " 浮动窗口
 Plug 'voldikss/vim-floaterm'
+" 特殊图标
+Plug 'ryanoasis/vim-devicons'
 call plug#end()

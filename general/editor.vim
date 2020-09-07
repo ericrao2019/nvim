@@ -11,3 +11,10 @@ set cursorline         " 高亮当前行
 set showcmd            " 显示指令
 set noshowmode         " 不显示模式
 set showtabline=2      " 总是显示tabline
+set tabstop=4          " 设置tab为4个空格
+set smarttab           " 自动设置tab键
+set shiftwidth=4       " 缩进为4个空格
+set expandtab          " 将缩进转换为空格
+set smartindent        " 智能缩进
+set autoindent         " 自动缩进
+
