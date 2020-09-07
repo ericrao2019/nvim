@@ -1,0 +1,7 @@
+
+autoload/plugged/coc.nvim/
+autoload/plugged/onedark.vim/
+autoload/plugged/vim-airline-themes/
+autoload/plugged/vim-airline/
+autoload/plugged/vim-startify/
+autoload/plug.vim
