@@ -12,3 +12,5 @@ source $HOME/.config/nvim/general/editor.vim
 source $HOME/.config/nvim/themes/onedark.vim
 source $HOME/.config/nvim/themes/airline.vim
 source $HOME/.config/nvim/plug-conf/coc.vim
+source $HOME/.config/nvim/plug-conf/easy-align.vim
+
