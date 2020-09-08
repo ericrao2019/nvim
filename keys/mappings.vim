@@ -21,3 +21,5 @@ xmap ga <Plug>(EasyAlign)
 nmap ga <Plug>(EasyAlign)
 " 快速打开关闭Markdown预览
 nmap <C-p> <Plug>MarkdownPreviewToggle
+" Coc explore
+nmap <space>e :CocCommand explorer<CR>

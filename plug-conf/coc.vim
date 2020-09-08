@@ -2,6 +2,7 @@
 let g:coc_global_extensions = [
     \ 'coc-vimlsp',
     \ 'coc-marketplace',
+    \ 'coc-explorer',
     \ ]
 
 " 使用tab键进行补全和导航
