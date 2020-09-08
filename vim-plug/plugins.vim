@@ -25,9 +25,12 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
 " md表格插件
 Plug 'dhruvasagar/vim-table-mode', { 'on': 'TableModeToggle', 'for': ['text', 'markdown', 'vim-plug'] }
+" 生成目录
 Plug 'mzlogin/vim-markdown-toc'
 " 浮动窗口
 Plug 'voldikss/vim-floaterm'
 " 特殊图标
 Plug 'ryanoasis/vim-devicons'
+" 自动匹配成对的符号
+Plug 'jiangmiao/auto-pairs'
 call plug#end()

@@ -15,3 +15,4 @@ source $HOME/.config/nvim/themes/onedark.vim
 source $HOME/.config/nvim/themes/airline.vim
 " 加载插件设置
 source $HOME/.config/nvim/plug-conf/coc.vim
+source $HOME/.config/nvim/plug-conf/markdown-preview.vim

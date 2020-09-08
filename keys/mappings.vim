@@ -19,5 +19,5 @@ noremap <LEADER><LEADER> <Esc>/<++><CR>:nohlsearch<CR>c4l
 xmap ga <Plug>(EasyAlign) 
 " 在普通模式中启动交互式的EasyAlign命令(e.g.gaip)
 nmap ga <Plug>(EasyAlign)
-
-
+" 快速打开关闭Markdown预览
+nmap <C-p> <Plug>MarkdownPreviewToggle
