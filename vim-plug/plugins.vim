@@ -33,4 +33,6 @@ Plug 'voldikss/vim-floaterm'
 Plug 'ryanoasis/vim-devicons'
 " 自动匹配成对的符号
 Plug 'jiangmiao/auto-pairs'
+" 整合ranger
+Plug 'kevinhwang91/rnvimr'
 call plug#end()
